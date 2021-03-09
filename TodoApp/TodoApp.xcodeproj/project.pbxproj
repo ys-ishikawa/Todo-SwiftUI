@@ -14,6 +14,7 @@
 		4F14A9B725DA8D0D009EA3A6 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F14A9B625DA8D0D009EA3A6 /* Persistence.swift */; };
 		4F14A9BA25DA8D0D009EA3A6 /* TodoApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 4F14A9B825DA8D0D009EA3A6 /* TodoApp.xcdatamodeld */; };
 		4F14A9C525DA8E76009EA3A6 /* CategoryImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F14A9C425DA8E76009EA3A6 /* CategoryImage.swift */; };
+		4FE9CE9025DBC665001714A9 /* CheckBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FE9CE8F25DBC665001714A9 /* CheckBox.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		4F14A9B925DA8D0D009EA3A6 /* TodoApp.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = TodoApp.xcdatamodel; sourceTree = "<group>"; };
 		4F14A9BB25DA8D0D009EA3A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4F14A9C425DA8E76009EA3A6 /* CategoryImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryImage.swift; sourceTree = "<group>"; };
+		4FE9CE8F25DBC665001714A9 /* CheckBox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckBox.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				4F14A9AD25DA8D0B009EA3A6 /* TodoAppApp.swift */,
 				4F14A9AF25DA8D0B009EA3A6 /* ContentView.swift */,
 				4F14A9C425DA8E76009EA3A6 /* CategoryImage.swift */,
+				4FE9CE8F25DBC665001714A9 /* CheckBox.swift */,
 				4F14A9B125DA8D0D009EA3A6 /* Assets.xcassets */,
 				4F14A9B625DA8D0D009EA3A6 /* Persistence.swift */,
 				4F14A9BB25DA8D0D009EA3A6 /* Info.plist */,
@@ -149,6 +152,7 @@
 			files = (
 				4F14A9B725DA8D0D009EA3A6 /* Persistence.swift in Sources */,
 				4F14A9B025DA8D0B009EA3A6 /* ContentView.swift in Sources */,
+				4FE9CE9025DBC665001714A9 /* CheckBox.swift in Sources */,
 				4F14A9AE25DA8D0B009EA3A6 /* TodoAppApp.swift in Sources */,
 				4F14A9BA25DA8D0D009EA3A6 /* TodoApp.xcdatamodeld in Sources */,
 				4F14A9C525DA8E76009EA3A6 /* CategoryImage.swift in Sources */,
